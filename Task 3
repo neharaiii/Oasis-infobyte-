@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tribute to Sushant Singh Rajput</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  h1, h2, p {
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .tribute-info {
+    margin-top: 20px;
+  }
+
+  .tribute-info p {
+    margin-bottom: 10px;
+  }
+
+  .quote {
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Tribute to Sushant Singh Rajput</h1>
+  <img src="sushant_singh_rajput.jpg" alt="Sushant Singh Rajput">
+  <div class="tribute-info">
+    <h2>About Sushant Singh Rajput</h2>
+    <p>Sushant Singh Rajput (1986-2020) was an Indian actor known for his work in both television and Bollywood films.</p>
+    <p>He gained popularity with his portrayal of Manav in the TV series "Pavitra Rishta".</p>
+    <p>Sushant made his Bollywood debut with "Kai Po Che!" in 2013 and went on to star in several successful films including "MS Dhoni: The Untold Story", "Kedarnath", and "Chhichhore".</p>
+    <p>He was known for his dedication to his craft and his passion for science and technology.</p>
+  </div>
+  <div class="quote">
+    <p>"I want to be in the limelight for the right reasons. I believe in the institution of work. It doesn’t matter where you come from, what your age is, your talent will be enough to take you forward." - Sushant Singh Rajput</p>
+  </div>
+</div>
+
+</body>
+</html>
